@@ -75,7 +75,7 @@ export interface LaunchNavigatorOptions {
  *
  * let options: LaunchNavigatorOptions = {
  *   start: 'London, ON',
- *   app: LaunchNavigator.APPS.UBER
+ *   app: LaunchNavigator.APP.UBER
  * };
  *
  * this.launchNavigator.navigate('Toronto, ON', options)
